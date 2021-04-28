@@ -1,0 +1,22 @@
+.body{
+    background-color: #A06D21;
+    background-repeat: no-repeat;
+    text-align:center;
+}
+h1{
+    text-align: center;
+    color: #FFCC00;
+}
+div{
+    text-align: center;
+    position: absolute;
+    color: white;
+    top:100px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+

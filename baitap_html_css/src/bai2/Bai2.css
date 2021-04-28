@@ -1,0 +1,34 @@
+h1{
+    color: chartreuse;
+}
+h2{
+    color: #0000FF;
+    text-decoration: underline #0000FF;
+}
+p{
+    font-weight: bold;
+}
+h3{
+    color: deeppink;
+    background-color: #FECFFD;
+    text-align: center;
+}
+.p1{
+    background-color: papayawhip;
+}
+.a{
+    text-align: center;
+    color: #0000FF;
+}
+.b{
+    text-align: center;
+    color: deeppink;
+}
+.c{
+    text-align: center;
+    color: chartreuse;
+}
+hr{
+    width: 30%;
+}
+

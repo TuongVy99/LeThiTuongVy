@@ -1,0 +1,25 @@
+h1{
+    color: chartreuse;
+    text-align: center;
+}
+p{
+    background-color: #0000FF;
+    text-align: center;
+    background-size: 100px;
+}
+.y{
+    color: #FFCC00;
+    text-align: center;
+    background-color: #0000FF;
+}
+.s{
+    color: darksalmon;
+    text-align: center;
+}
+.v{
+    color: chartreuse;
+    text-align: center;
+}
+body{
+    background-image: url("img4.png");
+}
